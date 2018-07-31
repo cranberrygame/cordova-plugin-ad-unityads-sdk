@@ -1,0 +1,27 @@
+{
+	"name": "cordova-plugin-ad-unityads-sdk",
+	"version": "1.5.6",
+	"description": "Add UnityAds SDK to Cordova porject, as dependency for other plugins",
+	"cordova": {
+		"id": "cordova-plugin-ad-unityads-sdk",
+		"platforms": [
+			"android"
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jokhml/cordova-plugin-ad-unityads-sdk/tree/patch-1.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jokhml/cordova-plugin-ad-unityads-sdk/tree/patch-1/issues"
+	},
+	"keywords": [
+		"cordova",
+		"unityads",
+		"sdk"
+	],
+	"author": {
+		"name": "cranberrygame"
+	},
+	"license": "MIT"
+}
